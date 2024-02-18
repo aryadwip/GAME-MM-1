@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708150931,
+	"version": 1708244924,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -71,6 +71,7 @@
 		"images/sprite33-sheet0.png",
 		"media/scream-sfx-cartoon.ogg",
 		"media/backsound.ogg",
+		"media/sfx.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
