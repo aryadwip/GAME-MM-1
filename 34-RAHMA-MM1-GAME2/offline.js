@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708149096,
+	"version": 1708243873,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,8 @@
 		"images/sprite42-sheet0.png",
 		"images/victory-sheet0.png",
 		"images/sprite43-sheet0.png",
-		"media/backsound.ogg"
+		"media/backsound.ogg",
+		"media/sfx.ogg",
+		"media/rintangan.ogg"
 	]
 }
