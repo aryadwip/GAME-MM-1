@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1708147678,
+	"version": 1708251862,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -74,24 +74,6 @@
 		"images/sprite62-sheet0.png",
 		"images/sprite65-sheet0.png",
 		"images/sprite66-sheet0.png",
-		"images/sprite72-sheet0.png",
-		"media/sound main.ogg",
-		"media/opening dan seting.ogg",
-		"media/wortel.ogg",
-		"media/wortel 2.ogg",
-		"media/bom.ogg",
-		"media/wortel baru.ogg",
-		"media/ambil wortel.ogg",
-		"media/wortelllllll.ogg",
-		"media/makan wrtl.ogg",
-		"media/mkn.ogg",
-		"media/mixkit-delightful-4.ogg",
-		"media/y2meta.app - super smash bros ultimate vctory sound effect (128 kbps).ogg",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
-		"icon-256.png",
-		"loading-logo.png"
+		"images/sprite72-sheet0.png"
 	]
 }
